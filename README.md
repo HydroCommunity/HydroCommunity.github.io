@@ -1,5 +1,5 @@
 Welcome to the Hydro Community
 
-## License
+Telegram community of Hydro is the most active Hydro Community. Hydro community is also active on Twitter, Medium, Reddit, Discord
 
-MIT © Dinesh Pandiyan
+Mail us as da@projecthydro.org to get in touch with us.
